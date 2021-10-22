@@ -15,3 +15,10 @@
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/92988781/138464800-63eee43d-3d97-49e8-bc94-7ae1eb9a8a36.png)
 
+
+4. Melewati verifikasi / teka teki dari pihak github untuk menyakini kalau anda bukan robot
+
+![Screenshot (8)](https://user-images.githubusercontent.com/92988781/138465695-42486f61-a0ea-4478-b734-e3680c2f4550.png)
+
+
+5.
