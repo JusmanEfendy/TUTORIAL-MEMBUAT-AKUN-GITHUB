@@ -26,4 +26,10 @@
 ![Screenshot (9)](https://user-images.githubusercontent.com/92988781/138466331-7aa35a8a-386a-4591-ad40-379634758636.png)
 
 
-6.
+6.Nanti akan dibawa ke step berikutnya dimana pada step berikutnya ada pertanyaan : how many team members will be working with you (_berapa banyak anggota tim yang akan bekerja dengan Anda?)
+
+![Screenshot (11)](https://user-images.githubusercontent.com/92988781/138472670-d1b8c9ec-3907-4e1c-8888-a4df25d380de.png)
+
+
+7. Dihalaman berikutnya anda diminta untuk menceklist yang mungkin anda butuhkan di github
+
