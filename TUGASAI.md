@@ -33,3 +33,10 @@
 
 7. Dihalaman berikutnya anda diminta untuk menceklist yang mungkin anda butuhkan di github
 
+![Screenshot (12)](https://user-images.githubusercontent.com/92988781/138473972-12a0b332-a0ee-4ccd-a54f-6b0eedb0f7c9.png)
+
+
+8.Jika tampilannya sudah seperti gambar dibawah, berarti akun github anda sudah terdaftar di github.com
+
+
+
