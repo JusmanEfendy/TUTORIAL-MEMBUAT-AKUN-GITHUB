@@ -41,5 +41,8 @@
 
 8.Jika tampilannya sudah seperti gambar dibawah, berarti akun github anda sudah terdaftar di github.com
 
+![Screenshot (14)](https://user-images.githubusercontent.com/92988781/138474455-c2f72b82-e750-420b-804b-9db119862e9e.png)
+
+
 
 
