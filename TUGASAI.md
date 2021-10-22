@@ -21,4 +21,9 @@
 ![Screenshot (8)](https://user-images.githubusercontent.com/92988781/138465695-42486f61-a0ea-4478-b734-e3680c2f4550.png)
 
 
-5.
+5. Masukkan kode verifikasi yang dikirimkan ke email anda.
+
+![Screenshot (9)](https://user-images.githubusercontent.com/92988781/138466331-7aa35a8a-386a-4591-ad40-379634758636.png)
+
+
+6.
