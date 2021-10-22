@@ -26,15 +26,12 @@
 ![Screenshot (9)](https://user-images.githubusercontent.com/92988781/138466331-7aa35a8a-386a-4591-ad40-379634758636.png)
 
 
-6.Nanti akan dibawa ke step berikutnya dimana pada step berikutnya ada pertanyaan : how many team members will be working with you (_berapa banyak anggota tim yang akan bekerja dengan Anda?)
+6.Nanti akan dibawa ke step berikutnya dimana pada step berikutnya ada pertanyaan : how many team members will be working with you (_berapa banyak anggota tim yang akan bekerja dengan Anda?)_
 
 ![Screenshot (11)](https://user-images.githubusercontent.com/92988781/138472670-d1b8c9ec-3907-4e1c-8888-a4df25d380de.png)
 
 
-7. Dihalaman berikutnya anda diminta untuk menceklist yang mungkin anda butuhkan di github. Dan coba klik pada kanan atas jika nama ada nama anda berarti "**WELCOME TO GITHUB**
-
-![Screenshot (14)](https://user-images.githubusercontent.com/92988781/138474455-c2f72b82-e750-420b-804b-9db119862e9e.png)
-
+7. Dihalaman berikutnya anda diminta untuk menceklist yang mungkin anda butuhkan di github. 
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/92988781/138473972-12a0b332-a0ee-4ccd-a54f-6b0eedb0f7c9.png)
 
